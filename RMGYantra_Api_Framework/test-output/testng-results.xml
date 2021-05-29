@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="7" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-29T12:35:51 IST" name="Suite" finished-at="2021-05-29T12:35:58 IST" duration-ms="7446">
+    <groups>
+    </groups>
+    <test started-at="2021-05-29T12:35:51 IST" name="Test" finished-at="2021-05-29T12:35:58 IST" duration-ms="7446">
+      <class name="com.ty.rmyyantra.projecttest.AddSingleProjectWithOnGoingStatus2">
+        <test-method signature="addSingleProjectWithOnGoingStatus()[pri:0, instance:com.ty.rmyyantra.projecttest.AddSingleProjectWithOnGoingStatus2@5fa07e12]" started-at="2021-05-29T12:35:58 IST" name="addSingleProjectWithOnGoingStatus" finished-at="2021-05-29T12:35:58 IST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSingleProjectWithOnGoingStatus -->
+      </class> <!-- com.ty.rmyyantra.projecttest.AddSingleProjectWithOnGoingStatus2 -->
+      <class name="com.ty.rmyyantra.projecttest.AddSingleProjectWithCreatedStatus">
+        <test-method signature="addSingleProjectWithCreatedStatus()[pri:0, instance:com.ty.rmyyantra.projecttest.AddSingleProjectWithCreatedStatus@d6e7bab]" started-at="2021-05-29T12:35:58 IST" name="addSingleProjectWithCreatedStatus" finished-at="2021-05-29T12:35:58 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSingleProjectWithCreatedStatus -->
+      </class> <!-- com.ty.rmyyantra.projecttest.AddSingleProjectWithCreatedStatus -->
+      <class name="com.ty.rmyyantra.projecttest.AddSingleProjectWithCompletedStatus3">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.ty.rmyyantra.projecttest.AddSingleProjectWithCompletedStatus3@3315d2d7]" started-at="2021-05-29T12:35:47 IST" name="configBS" finished-at="2021-05-29T12:35:51 IST" duration-ms="4016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method signature="addSingleProjectWithCreatedStatus()[pri:0, instance:com.ty.rmyyantra.projecttest.AddSingleProjectWithCompletedStatus3@3315d2d7]" started-at="2021-05-29T12:35:51 IST" name="addSingleProjectWithCreatedStatus" finished-at="2021-05-29T12:35:58 IST" duration-ms="6974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSingleProjectWithCreatedStatus -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.ty.rmyyantra.projecttest.AddSingleProjectWithCompletedStatus3@3315d2d7]" started-at="2021-05-29T12:35:58 IST" name="configAS" finished-at="2021-05-29T12:35:58 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.ty.rmyyantra.projecttest.AddSingleProjectWithCompletedStatus3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

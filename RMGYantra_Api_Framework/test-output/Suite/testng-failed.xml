@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.ty.rmyyantra.projecttest.AddSingleProjectWithCreatedStatus">
+        <methods>
+          <include name="configAS"/>
+          <include name="configBS"/>
+          <include name="addSingleProjectWithCreatedStatus"/>
+        </methods>
+      </class> <!-- com.ty.rmyyantra.projecttest.AddSingleProjectWithCreatedStatus -->
+      <class name="com.ty.rmyyantra.projecttest.AddSingleProjectWithOnGoingStatus2">
+        <methods>
+          <include name="configAS"/>
+          <include name="configBS"/>
+          <include name="addSingleProjectWithCreatedStatus"/>
+        </methods>
+      </class> <!-- com.ty.rmyyantra.projecttest.AddSingleProjectWithOnGoingStatus2 -->
+      <class name="com.ty.rmyyantra.projecttest.AddSingleProjectWithCompletedStatus3">
+        <methods>
+          <include name="configAS"/>
+          <include name="configBS"/>
+          <include name="addSingleProjectWithCreatedStatus"/>
+        </methods>
+      </class> <!-- com.ty.rmyyantra.projecttest.AddSingleProjectWithCompletedStatus3 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
